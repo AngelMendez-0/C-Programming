@@ -1,0 +1,3 @@
+C:/Users/AMend/Downloads/CSCD240_Lab7 STARTER/cmake-build-debug/CMakeFiles/CSCD240_Lab7_STARTER.dir
+C:/Users/AMend/Downloads/CSCD240_Lab7 STARTER/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AMend/Downloads/CSCD240_Lab7 STARTER/cmake-build-debug/CMakeFiles/rebuild_cache.dir
