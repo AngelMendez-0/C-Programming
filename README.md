@@ -5,6 +5,10 @@ This repository contains projects from CSCD 240 (C Programming and Unix)
 
 ## File Description
 
+### Lab 5 – Dynamic Arrays
+Programs demonstrating **dynamic memory allocation** for multiple data types (integers, characters, floats, doubles) in C using `malloc` and `calloc`. Focuses on:
+- Safe allocation and deallocation of memory
+
 ### Lab 7 – File Handling | May 30, 2025
 Programs demonstrating reading from and writing to files in C. Focuses on proper use of file pointers, error checking, and safe data management within a Unix environment.
 
